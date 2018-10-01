@@ -1,4 +1,4 @@
 # openldap
-- Pull to local my git clone
+- Pull to local by git clone
 - Cd to the project dir
 - Run: docker-compose up
